@@ -10,13 +10,13 @@ Bu depo, Kuantum Algoritması Yarışması kapsamında geliştirdiğimiz projeni
 
 \* \*\*Takım Kaptanı:\*\* Mehmet Çelik
 
-\* \*\*Ekip Üyeleri:\*\* 
+\* \*\*Ekip Üyeleri:\*\*
 
 &#x09;Muhammet berat Beket
 
-&#x09;Muhammet berat Yanar   
+&#x09;Muhammet berat Yanar
 
-&#x09;Hüsne Nur Kurt 
+&#x09;Hüsne Nur Kurt
 
 &#x09;Saria Taljo
 
@@ -31,4 +31,5 @@ Projede kullanılan tüm kütüphaneleri lokal ortamınıza yüklemek için term
 ```bash
 
 pip install -r requirements.txt
+
 
