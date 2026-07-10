@@ -1,0 +1,1 @@
+processed/-> Temizlenmiş, eksik veriler giderilmiş ve kuantum devresine uygun hale getirilerek (0-1 parçalı ölçeklenmiş vb.) nihai veriler.
