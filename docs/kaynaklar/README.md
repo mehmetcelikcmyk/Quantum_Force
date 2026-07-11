@@ -75,6 +75,11 @@ Bu klasör, projemizin teorik altyapısını olştururken yararlandığımız ak
   * **Künye:** Yılmaz, F. (2020). *Quantum algorithms* (Yüksek lisans tezi). Doğu Akdeniz Üniversitesi, Lisansüstü Eğitim ve Araştırma Enstitüsü. Open Access Repository.
   * **Bağlantı:** [DAÜ Açık Erişim Arşivi](https://i-rep.emu.edu.tr/server/api/core/bitstreams/8d26dd31-c573-4a23-8b42-452238eb39a1/content)
 
+
+* **Quantum bilgisayarları udemy not**
+  * **Dosya Adı:** `Quantum+Computing.pdf`
+  * **Bağlantı:** (https://att-c.udemycdn.com/2021-06-10_18-22-44-fcc744e0c702b1b34992481dfd96be81/original.pdf?response-content-disposition=attachment%3B+filename%3DQuantum%2BComputing.pdf&Expires=1783806800&Signature=nj1GAccZUerNsP70dUioUksf9im0ObbPAoM1KlPl-rMYVk6xKqtz3nJ2i7AMgg9ShfGWymAAFcIf17oJb-ondQ6VT4K2~jvehndy9YjIVRjl6PI50H-5okVmx1RbdVnQ05KVGygErYG9HF4E5peanW8Vi4De3eFWV2Oy~-9DirOHo64~0p3-XudFYrZpzxX2YA0wdUakb8Uf9vXNnjK8l0DVrneq~sjkhdL3MGanI7YsYQU9QP6qJCWLFCJYO9Xwj65xXL2JmeS~O6y6x21m5e~wxN~1Dswi-cfgUA9thrDyej~DA1PX04vzdmccHKhFiKeHeffHjYUJ9nOur9k7CA__&Key-Pair-Id=K3MG148K9RIRF4)
+
 ---
 
 ## ✍️ Ekip İçi Notlar
