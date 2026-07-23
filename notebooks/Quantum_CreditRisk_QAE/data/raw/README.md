@@ -1,0 +1,1 @@
+raw/-> Yarışma komitesinden alınan veya internetten çekilen, hiçbir bilgi verilmemiş veriler.

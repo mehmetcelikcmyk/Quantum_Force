@@ -1,0 +1,11 @@
+qiskit
+qiskit-optimization
+qiskit-finance
+pennylane
+pandas
+numpy
+scikit-learn
+xgboost
+streamlit
+matplotlib
+requests
